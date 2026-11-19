@@ -4,6 +4,24 @@ A new Flutter project.
 
 ## Getting Started
 
+Application mobile Flutter présentant mon CV, ma famille et mes coordonnées, accessible après une page de connexion.
+
+## Captures d'écran
+
+### 1. Page de connexion
+![Page de connexion](screenshots/login.png)
+
+### 2. Page d'accueil (CV)
+![Page d'accueil CV](screenshots/cv.png)
+
+### 3. Page famille
+![Page famille](screenshots/famille.png)
+
+### 4. Page contact
+![Page contact](screenshots/contact.png)
+
+![Page contact](screenshots/capture.png)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:

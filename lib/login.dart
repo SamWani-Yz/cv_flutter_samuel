@@ -41,7 +41,6 @@ class _LoginPageState extends State<LoginPage> {
     super.dispose();
   }
 
-  // Fonction de connexion réelle via ApiService
   Future<void> _seConnecter() async {
     setState(() {
       _isLoading = true;
